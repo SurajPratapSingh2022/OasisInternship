@@ -1,6 +1,6 @@
 Oasis [Java Development]<br>
-------> Online Reservation System
-------> Number Guessing Game
-------> ATM Interface
-------> Online Examination
+------> Online Reservation System<br>
+------> Number Guessing Game<br>
+------> ATM Interface<br>
+------> Online Examination<br>
 ------> Digital Library Management
